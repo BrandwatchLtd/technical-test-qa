@@ -1,5 +1,5 @@
-# Techincal Test
-The purpose of this test is 2 fold:
+# Technical Test
+The purpose of this test is 3 fold:
 * To see what test scenarios you come up with
 * How well you understand technical documentations
 * How comfortable are you with writing automation tests and what's your approach towards it. 
