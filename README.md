@@ -15,10 +15,10 @@ The purpose of this test is 3 fold:
 * `RestClient.java` simplifies the way you make a REST call using RestAssured library, just create an instance of RestClient and call utility methods such as `get` `post` to make call to an endpoint
 * You can write test in either junit4 or junit5, junit5 example is in `PostsTests.java`.
 
-## How will we rate it
+## How will we rate
 Our team will check following:
-* Scenarios Covered
 * Your understanding of the problem
+* Scenarios Covered
 * Coding Style
 * Readability
  
