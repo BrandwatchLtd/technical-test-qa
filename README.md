@@ -5,9 +5,12 @@ The purpose of this test is 3 fold:
 * How comfortable are you with writing automation tests and what's your approach towards it. 
 
 ## 📕 What you need to do:
-* Sign up at https://gender-api.com/
-* Read the api docs: https://gender-api.com/en/api-docs
-* Think about how you want test the end points via automation tests
+Write automation tests for the following cases at https://gorest.co.in/:
+1. Create a user and verify that the user got created
+3. Update a user and verify that the user got updated
+4. Delete a user and verify that user got deleted
+
+Try to cover as much scenarios as you can think of
 
 **NOTE**: You are free to use any language you are comfortable with, but for reference, we've provided a maven project using Jackson and RestAssured libraries that you can use (feel free to make any changes that you see fit)
 
