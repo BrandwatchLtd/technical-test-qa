@@ -1,16 +1,16 @@
 # 🚀 Technical Test 🚀
 The purpose of this test is 3 fold:
 * To see what test scenarios you come up with
-* How well you understand technical documentations
-* How comfortable are you with writing automation tests and what's your approach towards it. 
+* Assess how well you understand technical documentation
+* Assess how comfortable you are with writing automation tests and the approach taken to accomplish it
 
 ## 📕 What you need to do:
-Write automation tests for the following cases at https://gorest.co.in/:
+Write tests for the following cases at https://gorest.co.in/:
 1. Create a user and verify that the user got created
 3. Update a user and verify that the user got updated
 4. Delete a user and verify that user got deleted
 
-Try to cover as much scenarios as you can think of
+Determine how you want to test the end points via automation tests
 
 **NOTE**: You are free to use any language you are comfortable with, but for reference, we've provided a maven project using Jackson and RestAssured libraries that you can use (feel free to make any changes that you see fit)
 
@@ -25,12 +25,12 @@ Once complete, zip up your directory (including any .git files!) and sent it to 
  
 ## ✅ How will my work be evaluated?
 Rome wasn't built in a day, and we are fair in our review given the time constraints. But some of the things we are looking for:
-* Is the code clean, well organised and reusable
+* Is the code clean, well organised, and reusable
 * Your understanding of the problem
 * Scenarios Covered
 * Coding Style
 * Readability
 
-Should you proceed to the next stage of the process, we often discuss the approach taken and what you may have done when given more time. 
+Should you proceed to the next stage of the process, you may be asked to talk through the approach you took as well as what other approaches you might have taken or considered if more time would have been available. 
 Good luck! 
  
