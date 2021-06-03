@@ -7,8 +7,8 @@ The purpose of this test is 3 fold:
 ## 📕 What you need to do:
 Write tests for the following cases at https://gorest.co.in/:
 1. Create a user and verify that the user got created
-3. Update a user and verify that the user got updated
-4. Delete a user and verify that user got deleted
+2. Update a user and verify that the user got updated
+3. Delete a user and verify that user got deleted
 
 Determine how you want to test the end points via automation tests
 
