@@ -5,7 +5,7 @@ The purpose of this test is 3 fold:
 * Assess how comfortable you are with writing automation tests and the approach taken to accomplish it
 
 ## 📕 What you need to do:
-Write tests for the following cases at https://gorest.co.in/:
+Using the testing site https://gorest.co.in/, write automation tests for the following operations:
 1. Create a user and verify that the user got created
 2. Update a user and verify that the user got updated
 3. Delete a user and verify that user got deleted
