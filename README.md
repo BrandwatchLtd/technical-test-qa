@@ -5,9 +5,12 @@ The purpose of this test is 3 fold:
 * Assess how comfortable you are with writing automation tests and the approach taken to accomplish it
 
 ## 📕 What you need to do:
-* Sign up at https://gender-api.com/
-* Read the api docs: https://gender-api.com/en/api-docs
-* Determine how you want to test the end points via automation tests
+Using the testing site https://gorest.co.in/, write automation tests for the following operations:
+1. Create a user and verify that the user got created
+2. Update a user and verify that the user got updated
+3. Delete a user and verify that user got deleted
+
+Determine how you want to test the end points via automation tests
 
 **NOTE**: You are free to use any language you are comfortable with, but for reference, we've provided a maven project using Jackson and RestAssured libraries that you can use (feel free to make any changes that you see fit)
 
@@ -18,7 +21,7 @@ The code is built with Java 8 (but if there's features you like in later version
 
 ## 📫 Submitting the code
 We take pride in keeping our Git history organised and easy to follow for the benefit of our code reviewers, so please organise your commits to reflect this.
-Once complete, zip up your directory (including any .git files!) and sent it to the recruiter you've been in contact with, including a summary of what you have done.
+Once complete, zip up your directory (including any .git files!) and send it to the recruiter you've been in contact with, including a summary of what you have done.
  
 ## ✅ How will my work be evaluated?
 Rome wasn't built in a day, and we are fair in our review given the time constraints. But some of the things we are looking for:
