@@ -22,6 +22,7 @@ The code is built with Java 8 (but if there's features you like in later version
 ## 📫 Submitting the code
 We take pride in keeping our Git history organised and easy to follow for the benefit of our code reviewers, so please organise your commits to reflect this.
 Once complete, zip up your directory (including any .git files!) and send it to the recruiter you've been in contact with, including a summary of what you have done.
+Please do not fork this repository or send in a pull request, since that would mean other applicants would be able to *cough* borrow *cough* your work!
  
 ## ✅ How will my work be evaluated?
 Rome wasn't built in a day, and we are fair in our review given the time constraints. But some of the things we are looking for:
