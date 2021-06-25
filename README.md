@@ -10,7 +10,7 @@ Using the testing site https://gorest.co.in/, write automation tests for the fol
 2. Update user details
 3. Delete user
 
-The test scenarios are entirely up to you. You will not be evaluated on the number of tests created, but instead on the overall quality and efficiency of your automation tests (see evaluation section below).
+The test scenarios are entirely up to you, and you may use additional endpoints if you feel they will provide better coverage and improve your coding solution. You will be evaluated on which test cases you create as well as on the overall quality and efficiency of your automation code (see evaluation section below).
 
 **NOTE**: You are free to use any language you are comfortable with, but for reference, we've provided a maven project using Jackson and RestAssured libraries that you can use (feel free to make any changes that you see fit)
 
